@@ -15,4 +15,4 @@ https://www.kaggle.com/burak3ergun/loan-data-set
 
 #all the object data type has been changed to int.
 
-#In case we are not able to determin  the number of clusters withe the help of Scatter plot, then elbow method is used.
+#In case we are not able to determine the number of clusters withe the help of Scatter plot, then elbow method is used.
