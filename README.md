@@ -12,3 +12,7 @@ https://www.kaggle.com/burak3ergun/loan-data-set
 #Also, this will indicate the income bracket of maximum number of customers who are availing the bank services and applying for loans. This will help us to find our target customers and where we should invest our money for advertisement.
 
 #All the rows that did not contain any value in the coloumn "LoanAmount" were removed from the dataset.
+
+#all the object data type has been changed to int.
+
+#In case we are not able to determin  the number of clusters withe the help of Scatter plot, then elbow method is used.
